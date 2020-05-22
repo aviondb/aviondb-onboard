@@ -6,7 +6,41 @@ This allows you to integrate [AvionDB](https://github.com/dappkit/aviondb) with 
 
 ### Demo
 
-![Blocknaive's OnBoard.js based Auth with AvionDB](./assets/aviondb-blocknative.gif)
+#### Metamask Auth
+
+![Metamask based Auth with AvionDB](./assets/aviondb-blocknative.gif)
+
+#### Authereum Auth
+
+![Authereum based Auth with AvionDB](./assets/aviondb-authereum.gif)
+
+#### Dapper Auth
+
+![Dapper based Auth with AvionDB](./assets/aviondb-dapper.gif)
+
+#### Fortmatic Auth
+
+![Fortmatic based Auth with AvionDB](./assets/aviondb-fortmatic.gif)
+
+#### Portis Auth
+
+![Portis based Auth with AvionDB](./assets/aviondb-portis.gif)
+
+#### SquareLink Auth
+
+![SquareLink based Auth with AvionDB](./assets/aviondb-squarelink.gif)
+
+#### Tor.us Auth
+
+![Tor.us based Auth with AvionDB](./assets/aviondb-torus.gif)
+
+#### TrustWallet Auth
+
+![TrustWallet based Auth with AvionDB](./assets/aviondb-trust.gif)
+
+#### Wallet Connect Auth
+
+![Wallet Connect Auth with AvionDB](./assets/aviondb-walletconnect.gif)
 
 You can find other demos in the [assets folder](./assets)
 
