@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "aviondb": "^0.2.3-rc.12",
     "bnc-onboard": "^1.8.0",
     "orbit-db-access-controllers": "^0.2.4",
     "orbit-db-io": "^0.2.0",

@@ -1,3 +1,4 @@
+import AvionDB from "aviondb";
 import AccessControllers from "orbit-db-access-controllers";
 import BlocknativeAccessController from "../AccessController/BlocknativeAccessController";
 import Onboard from "bnc-onboard";
@@ -68,7 +69,7 @@ AccessControllers.addAccessController({
 export const getAvionDBCollection = async () => {
   if (!collection) {
     const ipfs = await window.Ipfs.create();
-    const aviondb = await window.AvionDB.init(
+    const aviondb = await AvionDB.init(
       "database-test-23",
       ipfs,
       {
